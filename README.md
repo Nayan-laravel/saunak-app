@@ -1,2 +1,2 @@
 # saunak-app
-This is a new project in laravel 
+This is a new project in laravel new
